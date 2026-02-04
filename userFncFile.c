@@ -17,7 +17,7 @@ int32_t Humedad_X;
 
 void onReset()
 {
-    Humedad_X = 100;
+    Humedad_X = 101;
     Humedad_X = Humedad_X + 1;
 }
 
